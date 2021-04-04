@@ -1,5 +1,9 @@
+html {
+  scroll-behavior: smooth 4s ease-out;
+}
 .bounceMe {
   animation: bounceArrow 4s ease-in-out infinite;
+
   }
 @keyframes bounceArrow {
   from { margin-top: 0px; 
