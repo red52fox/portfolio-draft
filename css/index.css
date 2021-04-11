@@ -1,3 +1,9 @@
+
+.container {
+  display: flex;
+}
+
+=======
 #sunSphere {
   position: absolute;
   top: -145px;
@@ -6,6 +12,7 @@
   
   
 }
+
 #myBtn {
   
   
